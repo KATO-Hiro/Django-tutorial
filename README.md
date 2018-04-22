@@ -3,7 +3,7 @@ Transcription for learning.
 
 # Progress status.
 + Tutorial part1: Finished.
-+ Tutorial part2: Trying.
++ Tutorial part2: Finished.
 + Tutorial part3: Trying.
 + Tutorial part4: Trying.
 + Tutorial part5: Trying.
