@@ -6,6 +6,6 @@ Transcription for learning.
 + Tutorial part2: Finished.
 + Tutorial part3: Finished.
 + Tutorial part4: Finished.
-+ Tutorial part5: Trying.
++ Tutorial part5: Finished.
 + Tutorial part6: Trying.
 + Tutorial part7: Trying.
